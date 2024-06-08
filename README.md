@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a Real Estate AI platform called Saige<br>🌱 Looking to learn more about operating systems and threading<br>💬 Ask me about where I have lived!<br>
+🔭 Currently working at an innovative med-tech company in British Columbia<br>🌱 Looking to learn more about operating systems and threading<br>💬 Ask me about where I have lived!<br>
 
 
 ## 🌐 Socials:
