@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working at an innovative med-tech company in British Columbia<br>🌱 Looking to learn more about operating systems and threading<br>💬 Ask me about where I have lived!<br>
+🔭 Currently on exchange at Tsinghua University for my final semester! After graduating, I'm working at Oracle as an SDE.<br>🌱 Looking to learn more about operating systems and threading<br>💬 Ask me about where I have lived!<br>
 
 
 ## 🌐 Socials:
